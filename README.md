@@ -5,6 +5,9 @@ Petit projet Python pour explorer des données de trafic routier : nettoyage d'u
 ## Pourquoi ce projet
 Le trafic est un facteur déterminant de la dégradation des chaussées et du dimensionnement de leur épaisseur. Ce projet est une première étape pour apprendre à traiter ce type de données avec Python.
 
+## Données
+Le fichier `donnees_test_synthetiques.csv` contient des **données fictives**, générées uniquement pour tester les scripts. Elles ne représentent pas de vrais comptages de trafic. Pour une analyse réelle, utilisez un jeu de données de comptages (par exemple sur Données Québec).
+
 ## Utilisation
 1. Installer les dépendances : `pip install -r requirements.txt`
 2. Télécharger un jeu de données de comptages de trafic (par exemple sur Données Québec) et l'enregistrer en CSV.
